@@ -2,3 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
+
+# Ignore tif raw 
+data_raw/tif_ESA/*
